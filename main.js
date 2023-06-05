@@ -16,7 +16,7 @@ const isValidIndex = (index, length) => {
   }
 };
 
-class ListNode {
+class LitNode {
   constructor(elem) {
     this.elem = elem;
     this.next = null;
