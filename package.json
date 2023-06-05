@@ -4,7 +4,7 @@
   "description": "Lab 2 of SDM",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "Sviat1001",
   "license": "ISC"
